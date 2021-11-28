@@ -1,0 +1,7 @@
+pageObjects\PaymentCompanyAdditionPage.class
+pageObjects\ConfigurationPage.class
+pageObjects\LoginPage.class
+resources\Base.class
+pageObjects\PaymentCompanyConfigurationPage.class
+pageObjects\LicensePage.class
+suite\App.class

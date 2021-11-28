@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/shaji.nazar/IrisSuite/src/test">
+        <classes>
+
+        <class name="suite.MainPage">
+            <methods>
+                <include name="initialize"/>
+            </methods>
+        </class>
+
+
+        </classes>
+    </test>
+</suite>
